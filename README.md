@@ -2,7 +2,7 @@
 In this repository, all of my answers to the code assignments found in CodeGrade for Semester 2 of Computer Science are placed as preservation. These all include code using C# as its programming language and follow OODP. In this README file, you can view my analysis of what I've learned during this semester.
 
 # Overview
-All CodeGrade assignments are ordered in a specific format. The basic format is W{week_num}.{Period}{T|O}{Assignment Total}, so for the first (simple) exercise you would have `W01.1T01` and for a more advanced assignment `W01.1O01`. Each week has two periods of new information being fed to the students, meaning that they cover a new topic twice a week.
+All CodeGrade assignments are ordered in a specific format. The basic format is W{week_num}.{Period}.{1: T, 2: O}{Assignment Total}, so for the first (simple) exercise you would have `W01.1.1T01` and for a more advanced assignment `W01.1.2O01`. Each week has two periods of new information being fed to the students, meaning that they cover a new topic twice a week.
 
 ## Week 1
 ### Period 1
