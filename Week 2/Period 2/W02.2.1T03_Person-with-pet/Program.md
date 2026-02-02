@@ -8,7 +8,7 @@ This was extremely simple to fix. The only thing that needed to change was to re
 I also changed the method into an expression-bodied method because why not?
 
 # Code
-For the Person and Pet classes, see the other .cs files in this directory.
+For the Person and Animal classes, see the other .cs files in this directory.
 ```cs
 static class Program
 {
