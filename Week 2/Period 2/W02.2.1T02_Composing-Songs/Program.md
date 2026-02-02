@@ -3,7 +3,7 @@ This exercise introduces the creation of object instances within another class's
 It requires the programmer to implement a `ComposeSong(string title)` method inside the `Artist` class, using the `Song` class provided by CodeGrade,
 where a Song instance gets added to a `List<Song>` field in the Artist class.
 
-Only the Artist class was coded by me, the rest was provided as a template by CodeGrade.
+Only the last method in the Artist class was coded by me, the rest was provided as a template by CodeGrade.
 
 This, again, isn't very difficult. I literally added one line of code to make it work.
 
