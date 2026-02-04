@@ -18,7 +18,8 @@ This means that all instances would have the same Counter field value, so this s
 - Model: This field is the same over each instance and has to be assigned outside of the class constructor.
 That would mean it should be `const`; a constant field that applies to all instances.
 
-So as far as I know, this test is being incorrectly run, when looking at the description of the exercise.
+The next day, however, I changed the naming convention of the `const` `MODEL` to `Model`, and that seemed to have resolved the issue. 
+Thanks CodeGrade for not being concise!
 
 # Code
 For the other classes, see the other .cs files in this directory.
