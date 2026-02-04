@@ -9,7 +9,7 @@ This one was fairly simple, although a little vague with the description. I ende
 since encapsulation hasn't been introduced yet. So, all in all, a very strange exercise.
 
 # Code
-For the class and other CodeGrade test files, see the other files in this directory.
+For other class files, see the other files in this directory.
 ```cs
 static class CodeGradeTests
 {
