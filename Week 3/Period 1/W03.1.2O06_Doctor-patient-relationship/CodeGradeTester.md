@@ -21,7 +21,7 @@ That means that you had to practically figure it out through trial and error, wh
 So yeah, this one sucked balls and took me about 8-10 hours. Not fun.
 
 # Code
-For the different classes and the CodeGrade test files, see the other .cs files in this directory.
+For the different classes and the other CodeGrade test file, see the other .cs files in this directory.
 ```cs
 static class CodeGradeTester
 {
