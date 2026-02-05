@@ -7,6 +7,7 @@ Only the Unit Test files were coded by me, the rest was provided as a template b
 This took me forever to figure out, mainly because I couldn't get MSTest to work on my VSCode environment for the life of me. 
 Eventually, I figured out I had to first create an MSTest project with `dotnet new mstest -n {project_name}`, 
 followed by `dotnet new console -o {project_name}` through the terminal in the same directory as the MSTest folder.
+
 After that, there were some very specific asserts CodeGrade wanted me to use, 
 which made it a little hard to figure out the exact thing that made their own tests fail.
 So yeah, another painful process of CodeGrade not cooperating and me struggling to understand how to make a unit testing project. Hooray.
