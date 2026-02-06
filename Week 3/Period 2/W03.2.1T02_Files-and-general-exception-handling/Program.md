@@ -1,6 +1,6 @@
 # Overview
 This exercise introduces the concept of exception handling in `C#`. It requires the programmer to take a given `Program` class 
-and refactor the methods to include excpetion handling for reading and writing to files.
+and refactor the methods to include exception handling for reading and writing to files.
 
 Only the Program class was altered by me, the rest was provided as a template by CodeGrade.
 
@@ -8,7 +8,7 @@ This one took forever, because for some reason CodeGrade didn't accept the `[]` 
 I was also unable to run the file in CodeGrade for whatever reason. Very weird.
 
 # Code
-For the other class files, see the other .cs files in this directory.
+For the other class files and the JSON file, see the other files in this directory.
 ```cs
 using Newtonsoft.Json;
 
